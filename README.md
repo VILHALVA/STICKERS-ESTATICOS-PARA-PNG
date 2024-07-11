@@ -1,5 +1,5 @@
 # STICKERS ESTATICOS PARA PNG
-🛑ESSE É UM BOT DO TELEGRAM QUE CONVERTE STICKERS ESTATICOS PARA PNG!
+🤤ESSE É UM BOT DO TELEGRAM QUE CONVERTE STICKERS ESTATICOS PARA PNG!
 
 <img src="FOTO.png" align="center" width="400"> <br>
 
@@ -14,14 +14,29 @@ Este bot do Telegram foi projetado para lidar com stickers estáticos enviados p
 
 4. **Remoção de Arquivos Locais**: Após enviar o sticker convertido, o bot remove o arquivo temporário localmente para economizar espaço e garantir a limpeza.
 
-## PROCEDIMENTO DE COMPRA:
-- Para efetuar a compra, por favor, entre em contato comigo por mensagem privada, informando:
-    ```bash
-    Gostaria de adquirir o bot: https://github.com/VILHALVA/STICKERS-ESTATICOS-PARA-PNG
-    ```
-- Após a confirmação do pagamento e o envio do comprovante, você receberá um arquivo zip contendo o código-fonte do bot, acompanhado de um manual detalhado (`MANUAL.md`), que oferece instruções abrangentes sobre a configuração do ambiente, sugestões de cursos e documentação recomendada, bem como o arquivo `HOSPEDAGEM.md`, contendo orientações para hospedar o seu bot.
+## EXECUTANDO O PROJETO:
+1. **Coloque o Token:**
+   - Antes de executar o bot, é necessário substituir o token do seu bot no arquivo `TOKEN.py`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). 
 
-- [🤑CLIQUE AQUI PARA ENTRAR EM CONTATO](https://t.me/VILHALVA100)
-- [🧑‍💻PRECISA DE UM FREELANCER? CLIQUE AQUI PARA VER EM TELEGRAPH](https://telegra.ph/FREELANCER-10-19-9)
-- [🧑‍💻PRECISA DE UM FREELANCER? CLIQUE AQUI PARA VER EM README](https://github.com/VILHALVA/VILHALVA/blob/main/FREELANCER/README.md)
+2. **Instalando as dependências:**
+   - Antes de executar o bot, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt` em `CODIGO`:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
+3. **Inicie o Bot:**
+   - Execute o bot do Telegram em Python iniciando-o com o seguinte comando:
+   ```bash
+   python CODIGO.py
+   ```
+
+   - Inicie o bot enviando o comando `/start`. E envie algum sticker estatico; Que ele te retornará a imagem PNG desse STICKER.
+
+## NÃO SABE?
+- Entendemos que para manipular arquivos em muitas linguagens e tecnologias relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos alguns subsidios:
+* [CURSO DE TELEBOT](https://github.com/VILHALVA/CURSO-DE-TELEBOT)
+* [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+* [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
+
+## CREDITOS:
+- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
